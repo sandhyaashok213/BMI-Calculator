@@ -1,0 +1,23 @@
+body{
+    background: linear-gradient(to right, #5f7cff, #ed7bfe);
+}
+.content{
+    background-color: white;
+    border: solid white 1px;
+    border-radius: 10px;
+    height: 210px;
+    width:280px;
+    padding:20px;
+    margin: 200px; 
+   display: grid;
+   place-items: center;
+   text-align: center;
+}
+button{
+    background-color: #5f7cff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
